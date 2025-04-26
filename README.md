@@ -1,5 +1,5 @@
 Solar Tracker GUI: Harness the Sun’s Power with Precision! 
-Welcome to Solar_Tracker_GUI, the ultimate open-source tool for controlling and optimizing dual-axis solar tracking systems! Built with Python, Tkinter, and Pysolar, this project empowers you to track the sun’s movement with pinpoint accuracy, maximizing solar energy capture like a pro. Whether you’re a DIY enthusiast, a renewable energy geek, or a tinkerer looking to level up your solar game, this GUI has got you covered! 
+Welcome to Solar_Tracker_GUI, the ultimate open-source tool for controlling and optimizing dual-axis solar tracking systems! This project empowers you to track the sun’s movement with pinpoint accuracy, maximizing solar energy capture like a pro. Whether you’re a DIY enthusiast, a renewable energy geek, or a tinkerer looking to level up your solar game, this GUI has got you covered! 
  What’s This All About?
 The Solar Tracker GUI is a sleek, user-friendly interface that calculates the sun’s position (azimuth and elevation) based on your location and time, then sends precise commands to your solar panel’s servo motors for optimal alignment. No more fixed panels wasting precious sunlight—this system dynamically follows the sun to boost efficiency by up to 40-60% compared to stationary setups! 
 Key features:
